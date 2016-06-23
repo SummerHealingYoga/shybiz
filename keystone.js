@@ -19,8 +19,8 @@ var pkg = require('./package.json');
 
 keystone.init({
 
-	'name': 'SydJS',
-	'brand': 'SydJS',
+	'name': 'SHY Biz',
+	'brand': 'SHY Biz',
 	'back': '/me',
 
 	'favicon': 'public/favicon.ico',
